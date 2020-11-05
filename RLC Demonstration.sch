@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -2983,7 +2983,7 @@ Footprint for axial resistor/capacitor with 0.6 in. pitch.</description>
 <part name="R2" library="SparkFun-Resistors" deviceset="10KOHM" device="-HORIZ_KIT-1/4W-5%" value="10k"/>
 <part name="S3" library="SparkFun-Switches" deviceset="SWITCH-SPDT" device="-PTH-11.6X4.0MM-LOCK"/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="R4" library="SparkFun-Resistors" deviceset="10KOHM" device="-HORIZ_KIT-1/4W-5%" value="680"/>
+<part name="R4" library="SparkFun-Resistors" deviceset="10KOHM" device="-HORIZ_KIT-1/4W-5%" value="820"/>
 <part name="S5" library="SparkFun-Switches" deviceset="SWITCH-SPDT" device="-PTH-11.6X4.0MM-LOCK"/>
 <part name="J4" library="SparkFun-Connectors" deviceset="CONN_03" device="LOCK"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_03" device="LOCK"/>
